@@ -1,1 +1,0 @@
-# datasource-bulk-set-snmp.ps1
